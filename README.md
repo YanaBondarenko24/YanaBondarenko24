@@ -4,11 +4,11 @@ YanaBondarenko24/README.md
 
 
 Hi, I'm Yana Bondarenko 👋  
-Frontend Developer focused on building clean, responsive and user-friendly web interfaces.
+💻Junior Frontend Developer 
 
+I focused on building clean, responsive and user-friendly web interfaces.
 I enjoy transforming ideas into real web applications and continuously improving my development skills.
 
-Junior Frontend Developer | JavaScript | React |
 
 
 

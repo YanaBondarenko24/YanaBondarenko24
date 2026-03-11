@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**YanaBondarenko24/YanaBondarenko24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+YanaBondarenko24/README.md
 
-Here are some ideas to get you started:
+Hi, I'm Yana Bondarenko 👋  
+Frontend Developer focused on building clean, responsive and user-friendly web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming ideas into real web applications and continuously improving my development skills.
+
+Junior Frontend Developer | JavaScript | React |
+
+🧰 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
+</p>
+
+🗣 Languages
+
+<p>
+<img src="https://cdn-icons-png.flaticon.com/24/197/197374.png"/> English Pre-intermediate    
+<img src="https://cdn-icons-png.flaticon.com/24/197/197408.png"/> Сzech Intermediate  
+<img src="https://cdn-icons-png.flaticon.com/24/197/197572.png"/> Ukrainian Native 
+<img src="https://cdn-icons-png.flaticon.com/24/197/197408.png"/> Russian Native
+</p>
+
+📫 Connect with me
+
+💼 [LinkedIn](https://www.linkedin.com/in/yana-bondarenko-0b8aa03a7)  
+
+✉️ Email: [bondarenkoyana2406@gmail.com](mailto:bondarenkoyana2406@gmail.com)

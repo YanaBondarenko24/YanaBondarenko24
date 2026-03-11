@@ -1,7 +1,4 @@
 
- YanaBondarenko24/README.md
-
-
 
 ## Hi, I'm Yana Bondarenko 👋  
 # 💻Junior Frontend Developer 

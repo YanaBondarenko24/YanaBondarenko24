@@ -1,18 +1,18 @@
 
-YanaBondarenko24/README.md
+#### YanaBondarenko24/README.md
 
 
 
-Hi, I'm Yana Bondarenko 👋  
-💻Junior Frontend Developer 
+# Hi, I'm Yana Bondarenko 👋  
+## 💻Junior Frontend Developer 
 
-I focused on building clean, responsive and user-friendly web interfaces.
-I enjoy transforming ideas into real web applications and continuously improving my development skills.
-
-
+### I focused on building clean, responsive and user-friendly web interfaces.
+### I enjoy transforming ideas into real web applications and continuously improving my development skills.
 
 
-🧰 Tech Stack
+
+
+## 🧰 Tech Stack
 
 
 <p align="left">
@@ -22,7 +22,7 @@ I enjoy transforming ideas into real web applications and continuously improving
 
 
 
-🗣 Languages
+## 🗣 Languages
 
 
 <p>
@@ -34,7 +34,7 @@ I enjoy transforming ideas into real web applications and continuously improving
 
 
 
-📫 Connect with me
+## 📫 Connect with me
 
 
 

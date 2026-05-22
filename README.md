@@ -24,9 +24,9 @@
 
 <p>
 <img src="https://cdn-icons-png.flaticon.com/24/197/197374.png"/> English (Pre-intermediate)  
-<img src="https://cdn-icons-png.flaticon.com/24/197/197408.png"/> Сzech (Intermediate)  
 <img src="https://cdn-icons-png.flaticon.com/24/197/197572.png"/> Ukrainian (Native) 
 <img src="https://cdn-icons-png.flaticon.com/24/197/197408.png"/> Russian (Native)
+<img src="https://cdn-icons-png.flaticon.com/24/197/197408.png"/> Сzech (Intermediate)  
 </p>
 
 
